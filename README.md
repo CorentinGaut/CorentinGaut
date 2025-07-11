@@ -2,7 +2,7 @@
 ### Introduction
 Corentin LE BIHAN GAUTIER
 
-Post-doctoral position at LASTING/IGN in the GeoVis team.
+Post-doctoral position at LASTIG/IGN in the GeoVis team.
 I am passionate about video games, skiing and hiking. Suggest me your best hikes !
 
 * My personnal website : [https://corentingaut.github.io](https://corentingaut.github.io)
